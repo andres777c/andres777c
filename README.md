@@ -90,7 +90,7 @@ Además del código, trabajo el ciclo completo de desarrollo:
 - **Modelado UML**: casos de uso, modelo de dominio, diagramas de clases, secuencia, actividades, componentes y arquitectura.
 - **Diseño de bases de datos**: modelo entidad-relación y normalización.
 - **Gestión de proyectos**: planificación con diagramas de Gantt y análisis de riesgos.
-- **Pruebas**: diseño y documentación de casos de prueba unitarios.
+- **Pruebas**: diseño y documentación de casos de prueba.
 
 <p align="left">
   <img src="https://img.shields.io/badge/UML-FABB00?style=for-the-badge&logo=uml&logoColor=black" alt="UML" />
