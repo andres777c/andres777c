@@ -13,7 +13,7 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 Titulado en 2025 como APU y en 2024 como **Técnico Superior en Ciencias de Datos e Inteligencia Artificial**.
+- 🎓 Egresado en 2025 como APU y en 2024 como **Técnico Superior en Ciencias de Datos e Inteligencia Artificial**.
 - 🔭 Especializándome en **desarrollo web**, incorporando herramientas de **Inteligencia Artificial** al flujo de trabajo.
 - 🔬 Participo en el proyecto de investigación *"Modelado estadístico espacial y temporal de precios minoristas de frutas y verduras en el aglomerado Jujuy – Palpalá"* (FCA-UNJu, 2023 – actualidad), desarrollando en equipo el sistema web de relevamiento y persistencia de datos.
 - 🧩 Me gusta llevar un proyecto de punta a punta: base de datos, backend, frontend y puesta en producción.
