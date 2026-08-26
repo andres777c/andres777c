@@ -78,7 +78,7 @@
 | **Acreditación de asistencia por QR** | Sistema web de acreditación por código QR, desarrollado para el **IV Congreso Argentino de Agroecología** (Jujuy, 2025). | Google Apps Script |
 | **Club Atlético Independiente** | Sistema de gestión de socios, actividades, suscripciones y control de asistencias para un club con más de 500 alumnos. Trabajo integrador final **en equipo** de *Análisis y Diseño de Sistemas II* (2024): relevamiento con usuarios reales, modelado UML completo y desarrollo. | Angular · Node.js · TypeScript · MongoDB · Bootstrap |
 | **Administración de alquileres** | Sistema web de administración de alquiler de locales e inquilinos de galerías. | Angular · Node.js |
-| **Landing de huertas** | Landing page informativa sobre huertas en Jujuy. | Angular · Bootstrap |
+| **[Landing de huertas](https://mhj01.netlify.app/home)** 🔗 | Landing page informativa sobre huertas en Jujuy. | Angular · Bootstrap |
 
 ---
 
