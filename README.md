@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 Soy Andrés Chaile</h1>
 
 <p align="center">
-  <b>Analista Programador Universitario</b> · San Salvador de Jujuy, Argentina 🇦🇷<br>
+  <b>Desarrollador Fullstack TypeScript</b> · Analista Programador Universitario · San Salvador de Jujuy, Argentina 🇦🇷<br>
   Desarrollo aplicaciones web y APIs en <b>TypeScript</b>, con <b>Angular</b> en el frontend y <b>Node.js</b> (NestJS, Express) en el backend.
 </p>
 
@@ -13,9 +13,10 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 Egresado en 2025 como APU y en 2024 como **Técnico Superior en Ciencias de Datos e Inteligencia Artificial**.
+- 🎓 Egresado en 2025 como APU y en 2024 como **Técnico Superior en Ciencias de Datos e Inteligencia Artificial**. Desde 2026 curso la Licenciatura en Informática Educativa (UNJu).
 - 🔭 Especializándome en **desarrollo web**, incorporando herramientas de **Inteligencia Artificial** al flujo de trabajo.
-- 🔬 Participo en el proyecto de investigación *"Modelado estadístico espacial y temporal de precios minoristas de frutas y verduras en el aglomerado Jujuy – Palpalá"* (FCA-UNJu, 2023 – actualidad), desarrollando en equipo el sistema web de relevamiento y persistencia de datos.
+- 🔬 Participo desde 2023 en el proyecto de investigación *"Modelado estadístico espacial y temporal para describir la variabilidad de precios minoristas de frutas y verduras en el aglomerado Jujuy – Palpalá"* (FCA-UNJu). Empecé como encuestador en campo y desde 2026 soy analista y desarrollador del sistema de relevamiento de precios, en un equipo de dos.
+- 📄 Coautor de dos artículos publicados en la *Revista Científica FCA* (UNJu), sobre variabilidad de precios minoristas y clasificación climática de Jujuy y Salta.
 - 🧩 Me gusta llevar un proyecto de punta a punta: base de datos, backend, frontend y puesta en producción.
 - 🤝 Trabajo cómodo en equipo: la mayoría de mis proyectos fueron grupales, con relevamiento junto a los usuarios finales.
 - 💬 Preguntame sobre **Angular, NestJS, Express, PostgreSQL, MySQL, MongoDB o Docker**.
@@ -73,12 +74,12 @@
 
 | Proyecto | Descripción | Stack |
 | --- | --- | --- |
-| **Relevamiento de Precios** | Sistema de captura y análisis de precios minoristas en campo, con API modular y panel de administración. Parte del proyecto de investigación de la FCA-UNJu. | NestJS · TypeORM · PostgreSQL · Angular |
-| **Sitio de Noticias** | Desarrollo de la API del sitio: autenticación, validación de esquemas y rate limiting. | TypeScript · Express · MongoDB |
+| **Relevamiento de Precios** | Sistema de captura de precios minoristas en campo, con API modular y panel de administración. Carga resistente a cortes de conexión y 93 pruebas end-to-end trazadas a casos de uso. Proyecto de investigación de la FCA-UNJu, en desarrollo desde 2026. | NestJS · TypeORM · PostgreSQL · Angular · Jest · Supertest |
+| **[Sitio de Noticias](https://sitio-noticias.vercel.app/)** 🔗 | Backend del sitio: API REST en capas, autenticación JWT con cuatro roles, validación de esquemas con Zod, límite de intentos en el login y carga de imágenes. Trabajo en equipo con Scrum. | TypeScript · Express · MongoDB · Docker |
 | **Acreditación de asistencia por QR** | Sistema web de acreditación por código QR, desarrollado para el **IV Congreso Argentino de Agroecología** (Jujuy, 2025). | Google Apps Script |
-| **Club Atlético Independiente** | Sistema de gestión de socios, actividades, suscripciones y control de asistencias para un club con más de 500 alumnos. Trabajo integrador final **en equipo** de *Análisis y Diseño de Sistemas II* (2024): relevamiento con usuarios reales, modelado UML completo y desarrollo. | Angular · Node.js · TypeScript · MongoDB · Bootstrap |
-| **Administración de alquileres** | Sistema web de administración de alquiler de locales e inquilinos de galerías. | Angular · Node.js |
-| **[Landing de huertas](https://mhj01.netlify.app/home)** 🔗 | Landing page informativa sobre huertas en Jujuy. | Angular · Bootstrap |
+| **Club Atlético Independiente** | Sistema de gestión de socios, actividades, suscripciones y control de asistencias para un club con más de 500 alumnos. Trabajo integrador final **en equipo** de *Análisis y Diseño de Sistemas II* (2024): relevamiento con usuarios reales (etapa que lideré), modelado UML completo y desarrollo. | Angular · Node.js · TypeScript · MongoDB · Bootstrap |
+| **Administración de alquileres** | Sistema web de administración de alquiler de locales comerciales: alquileres, cuotas, promociones y autenticación JWT por roles. Trabajo final en equipo de seis (2024). | Angular · Node.js · Express · MongoDB |
+| **[Mi Huerta](https://mhj01.netlify.app/home)** 🔗 | Guía para planificar huertas familiares en Jujuy: catálogo de 26 cultivos filtrable por región y simulador de siembra según las personas a abastecer. | Angular · TypeScript · RxJS · Bootstrap |
 
 ---
 
@@ -105,7 +106,7 @@ Además del código, trabajo el ciclo completo de desarrollo:
   <a href="mailto:andresfca19@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/andres777c">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/andres-c7">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
